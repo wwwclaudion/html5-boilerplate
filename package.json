@@ -1,13 +1,11 @@
 {
-  "name": " ",
+  "name": "html5boilerplate",
   "version": "0.0.1",
-  "description": "",
+  "description": "Meu boilerplate de HTML5+CSS",
   "private": true,
-  "keywords": [
-    ""
-  ],
+  "keywords": [],
   "license": "",
-  "author": "",
+  "author": "Weber Claudio",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack serve --open --config webpack.config.dev.js",
